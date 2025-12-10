@@ -21,3 +21,6 @@ g++ -std=c++17 -O2 -Wall -Wextra domain_report_clean.cpp -o domain_report_clean 
 # Enter domain or IP when prompted, e.g. dns.google or 8.8.8.8
 # JSON report will be saved as ./report.json
 
+sudo apt update
+sudo apt install curl whois dnsutils -y
+
