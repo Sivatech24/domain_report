@@ -10,3 +10,14 @@ g++ domain_report.cpp -o domain_report -lcurl -lssl -lcrypto
 ./domain_report
 # then enter a domain (example: dns.google) or an IP (example: 8.8.8.8)
 
+sudo apt update
+sudo apt install -y build-essential g++ curl libcurl4-openssl-dev \
+                    dnsutils whois traceroute openssl nmap \
+                    libssl-dev nlohmann-json3-dev
+
+g++ -std=c++17 -O2 -Wall -Wextra domain_report_clean.cpp -o domain_report_clean -lcurl -lssl -lcrypto
+
+./domain_report_clean
+# Enter domain or IP when prompted, e.g. dns.google or 8.8.8.8
+# JSON report will be saved as ./report.json
+
