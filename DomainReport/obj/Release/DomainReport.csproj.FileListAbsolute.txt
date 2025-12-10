@@ -1,0 +1,12 @@
+C:\Users\codingmaster24\Documents\temp\DomainReport\bin\Release\DomainReport.exe.config
+C:\Users\codingmaster24\Documents\temp\DomainReport\bin\Release\DomainReport.exe
+C:\Users\codingmaster24\Documents\temp\DomainReport\bin\Release\DomainReport.pdb
+C:\Users\codingmaster24\Documents\temp\DomainReport\bin\Release\Newtonsoft.Json.dll
+C:\Users\codingmaster24\Documents\temp\DomainReport\bin\Release\Newtonsoft.Json.xml
+C:\Users\codingmaster24\Documents\temp\DomainReport\obj\Release\DomainReport.csproj.AssemblyReference.cache
+C:\Users\codingmaster24\Documents\temp\DomainReport\obj\Release\DomainReport.Properties.Resources.resources
+C:\Users\codingmaster24\Documents\temp\DomainReport\obj\Release\DomainReport.csproj.GenerateResource.cache
+C:\Users\codingmaster24\Documents\temp\DomainReport\obj\Release\DomainReport.csproj.CoreCompileInputs.cache
+C:\Users\codingmaster24\Documents\temp\DomainReport\obj\Release\DomainRe.49BDF44E.Up2Date
+C:\Users\codingmaster24\Documents\temp\DomainReport\obj\Release\DomainReport.exe
+C:\Users\codingmaster24\Documents\temp\DomainReport\obj\Release\DomainReport.pdb
