@@ -1,0 +1,12 @@
+sudo apt update
+sudo apt install -y build-essential g++ curl libcurl4-openssl-dev \
+                    dnsutils whois traceroute openssl nmap \
+                    libssl-dev
+# install nlohmann::json (header-only)
+sudo apt install -y nlohmann-json3-dev
+
+g++ domain_report.cpp -o domain_report -lcurl -lssl -lcrypto
+
+./domain_report
+# then enter a domain (example: dns.google) or an IP (example: 8.8.8.8)
+
