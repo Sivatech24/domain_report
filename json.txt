@@ -1,0 +1,31 @@
+Enter a domain or IP: 8.8.8.8
+
+==== Windows Domain/IP Report ====
+Input:         8.8.8.8
+Is IP:         Yes
+Domain:        N/A
+IP Address:    8.8.8.8
+Reverse DNS:   N/A
+
+Nameservers:
+N/A
+Mail Servers:
+N/A
+WHOIS:
+error valid key required
+Geolocation:
+{
+  "ip": "8.8.8.8",
+  "hostname": "dns.google",
+  "city": "Mountain View",
+  "region": "California",
+  "country": "US",
+  "loc": "38.0088,-122.1175",
+  "org": "AS15169 Google LLC",
+  "postal": "94043",
+  "timezone": "America/Los_Angeles",
+  "readme": "https://ipinfo.io/missingauth",
+  "anycast": true
+}
+
+Saved JSON report.json

@@ -55,3 +55,5 @@ Total Installed Size:  418.82 MiB
 
 $ gcc --version
 gcc.exe (Rev2, Built by MSYS2 project) 13.2.0
+
+vc code
