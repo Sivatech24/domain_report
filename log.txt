@@ -24,3 +24,6 @@ g++ -std=c++17 -O2 -Wall -Wextra domain_report_clean.cpp -o domain_report_clean 
 sudo apt update
 sudo apt install curl whois dnsutils -y
 
+g++ DOMAIN_REPORT_WINDOWS.cpp -o domain_report
+
+cl DOMAIN_REPORT_WINDOWS.cpp
